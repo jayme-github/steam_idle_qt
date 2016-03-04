@@ -1,3 +1,7 @@
+.. image:: https://landscape.io/github/jayme-github/steam_idle_qt/master/landscape.svg?style=flat
+   :target: https://landscape.io/github/jayme-github/steam_idle_qt/master
+   :alt: Code Health
+
 ============
 Steam Idle Qt
 ============
